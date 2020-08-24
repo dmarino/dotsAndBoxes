@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">DotsAndBoxes</string>
+    <string name="canvasContentDescription">bla bla bla</string>
+
+    <string-array name="NumberPlayers">
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+    </string-array>
+
+    <string-array name="BoardSize">
+        <item>5x5</item>
+        <item>6x5</item>
+        <item>7x5</item>
+    </string-array>
+</resources>
